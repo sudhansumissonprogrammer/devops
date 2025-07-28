@@ -146,8 +146,7 @@ argocd app sync your-app
 
 ## 👨‍💻 Author
 
-**Abhijeet Dutta**
-🔗 [GitHub](https://github.com/abhijeetdutta-1908/CICD_DevSecOps)
+sudhansu sahoo
 
 ---
 
